@@ -1,5 +1,3 @@
-### README  
-
 # Multi-Dataset Image Classifier with ResNet-50  
 
 This repository contains the implementation of a **multi-dataset image classification pipeline** designed to handle domain shifts and improve accuracy across diverse datasets. The project leverages **ResNet-50** for feature extraction, pseudo-labeling for unlabeled datasets, and label smoothing for robust classification.  
