@@ -43,21 +43,3 @@ This repository contains the implementation of a **multi-dataset image classific
 The methodology demonstrates the power of transfer learning, pseudo-labeling, and fine-tuning to address image classification challenges across diverse datasets.  
 
 ---  
-### Usage  
-1. Clone the repository:  
-   ```bash  
-   git clone <repository-link>  
-   ```  
-2. Install dependencies:  
-   ```bash  
-   pip install -r requirements.txt  
-   ```  
-3. Run the training script:  
-   ```bash  
-   python train_classifier.py  
-   ```  
-
-### License  
-This project is licensed under the MIT License.  
-
-Feel free to contribute or suggest improvements!
